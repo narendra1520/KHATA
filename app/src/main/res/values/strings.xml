@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KHATA</string>
+    <string name="search_label">Search Customer</string>
+    <string name="add_cust_instruction">Choose the initial amount for customer\'s profile\n(Default: 0.0)</string>
+    <string name="max_limit">Maximum allowed limit:\u0020 </string>
+    <string name="login">Welcome ! Login to continue</string>
+</resources>
